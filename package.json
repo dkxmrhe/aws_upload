@@ -1,0 +1,23 @@
+{
+  "name": "aws_upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkxmrhe/aws_upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkxmrhe/aws_upload/issues"
+  },
+  "homepage": "https://github.com/dkxmrhe/aws_upload#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1218.0",
+    "sharp": "^0.31.0"
+  }
+}
